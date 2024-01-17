@@ -12,6 +12,6 @@ A data structure is a specialized format for organizing, processing, retrieving 
   
 ```
 Example : 
-array = |5|6||
+array = [5,6]
 To insert 4 at index 0 we need to first move 6 to index 2, 5 to index 1 & only then we can insert 4 at index 0
 ```

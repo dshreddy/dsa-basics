@@ -9,9 +9,27 @@ A data structure is a specialized format for organizing, processing, retrieving 
 - We use index to read/write an element from an array
 - Reading/Writing an element from an array is O(1)
 - Inserting/Deleting elements into an array is O(n).
-  
+
 ```
-Example : 
+Example :
 array = [5,6]
 To insert 4 at index 0 we need to first move 6 to index 2, 5 to index 1 & only then we can insert 4 at index 0
 ```
+
+## Problems
+
+### Static Arrays
+
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- https://leetcode.com/problems/remove-element/
+- https://leetcode.com/problems/shuffle-the-array/
+
+### Dynamic Arrays
+
+- https://leetcode.com/problems/concatenation-of-array/
+
+### Stack
+
+- https://leetcode.com/problems/baseball-game/
+- https://leetcode.com/problems/valid-parentheses/
+- https://leetcode.com/problems/min-stack/

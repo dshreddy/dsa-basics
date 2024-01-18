@@ -4,6 +4,7 @@ This repository contains basic data structure & algorithms basics
 
 Topics covered in this repository 
 
+0) C++ STL
 1) Arrays
 2) Linked Lists
 3) Recursion

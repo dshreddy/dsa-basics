@@ -12,6 +12,13 @@
 - Binary Search Trees (BST's) are a special type of binary trees 
 - In a BST everything on the left subtree of a node should be < root node & everything on the right subtree of a node should be > root node & this prooperty should be hold for all subtrees
 - Generally BST's can't have duplicates 
+- Inorder traversal can be taught of as first visiting the left subtree then print the current node then right subtree
+<img src="inorder_l.png" height="200" width="200">
+<img src="root.png" height="200" width="200">
+<img src="inorder_r.png" height="200" width="200">
+
+- Preorder traversal can be taught of as first visiting the current node then left subtree then right subtree
+- Postorder traversal can be taught of as first visiting the left subtree then right subtree then current node
 
 <hr>
 

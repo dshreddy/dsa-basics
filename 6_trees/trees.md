@@ -29,7 +29,7 @@
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/
 - https://leetcode.com/problems/delete-node-in-a-bst/
 
-<h6>DFS (PREORDER, INO)</h6>
+<h6>DFS (PREORDER, INORDER, POSTORDER)</h6>
 
 - https://leetcode.com/problems/binary-tree-inorder-traversal/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/

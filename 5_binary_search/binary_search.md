@@ -1,0 +1,6 @@
+# Binary Search
+
+## PROBLEMS 
+
+- https://leetcode.com/problems/binary-search/
+- https://leetcode.com/problems/search-a-2d-matrix/
